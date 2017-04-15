@@ -1,5 +1,7 @@
 module Date.Now exposing (now)
 {-| Elm package to get current date without Task
+
+@docs now
 -}
 
 import Date
